@@ -12,7 +12,6 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "org.jezequel.secure_application"
     compileSdkVersion 31
 
     compileOptions {
